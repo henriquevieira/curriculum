@@ -152,10 +152,10 @@
 \newcommand*\icon[1]{\tikz[baseline=(char.base)]{\node[shape=circle,draw,inner sep=1pt, fill=mainblue,mainblue,text=white] (char) {#1};}}
 
 % Command for printing skill progress bars
-\newcommand\programming[1]{ 
-	\renewcommand{\programming}{
+\newcommand\developer[1]{ 
+	\renewcommand{\developer}{
 		\begin{tikzpicture}
-        	\node [above right] at (0, 4) {$0 \: LOC \: \arrow{3.2} \: 5000 \: LOC$};
+
 			\foreach [count=\i] \x/\y in {#1}{
 				\draw[fill=maingray,maingray] (0,\i) rectangle (6,\i+0.4);
 				\draw[fill=white,mainblue](0,\i) rectangle (\y,\i+0.4);
@@ -164,9 +164,17 @@
 		\end{tikzpicture}
 	}
 }
-\newcommand\projects[1]{ 
-	\renewcommand{\projects}{
-		{#1}
+
+\newcommand\rs[1]{ 
+	\renewcommand{\rs}{
+		\begin{tikzpicture}
+
+			\foreach [count=\i] \x/\y in {#1}{
+				\draw[fill=maingray,maingray] (0,\i) rectangle (6,\i+0.4);
+				\draw[fill=white,mainblue](0,\i) rectangle (\y,\i+0.4);
+				\node [above right] at (0,\i+0.35) {\x};
+			}
+		\end{tikzpicture}
 	}
 }
 
@@ -248,17 +256,18 @@
 	\skills
         
         %------------------------------------------------
-        
+
         \vspace{3mm}
        
-	 {\large \textbf{Programming}} 
+	 {\large \textbf{Developer}} 
 
-		 \programming
-         
-        \vspace{4mm}
-        \profilesection{Projects}{3cm} 
-        
-        \projects
+		 \developer
+
+        \vspace{3mm}
+       
+	 {\large \textbf{Research skills}} 
+
+		 \rs       
       
   \end{textblock}
 }

@@ -23,27 +23,27 @@ Dez. 2016
 
 - Nov. 2016 - present, Laboratório Especial de Toxinologia Aplicada (LETA), Instituto Butantan, Brazil
   - *public institution*
-  - Technical Training IV
+  - Bioinformatic Technic - Technical Training IV
   - Development of tools, pipelines and RNASeq data analysis and server management.
 
 - Jan. 2015 - Nov. 2016, Looplex, Brazil
   - *Startup company in the web solutions development segment*
-  - System analyst
+  - Java Backend Developer / System analyst
   - Development of LOOPLEX software.
 
 - Oct. 2012 - Dez. 2014, Instituto de Psiquiatria do Hospital das Clínicas de São Paulo, Brazil
   - *public institution*
   - Master's degree with scholarship
-  - Development and analysis of methylation data in microarray.
+  - Development pipeline and analysis of methylation data in microarray.
 
 # Competencies
 
-- Advanced School in Big Data Analysis, CeMEAI – USP (julho/2017)
-- SHIFT Big Data Science - Machine Learning and Data Mining, FIAP (junho/2016)
-- RNA-SEQ Analysis, UNICAMP (julho/2014)
-- Scientific Writing Course, USP (setembro/2013)
-- Language course - English, CNA (dezembro/2011).
-- Language course - Japanese, Kumon (dezembro/2009).
+- Advanced School in Big Data Analysis, CeMEAI - USP (Jul. 2017)
+- SHIFT Big Data Science - Machine Learning and Data Mining, FIAP (Jun. 2016)
+- RNA-SEQ Analysis, UNICAMP (Jul. 2014)
+- Scientific Writing Course, USP (Sep. 2013)
+- Language course - English, CNA (Dez. 2011).
+- Language course - Japanese, Kumon (Dez. 2009).
 
 # Skills
 
