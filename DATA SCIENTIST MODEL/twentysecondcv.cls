@@ -265,7 +265,7 @@
 
         \vspace{3mm}
        
-	 {\large \textbf{Research skills}} 
+	 {\large \textbf{Data Scientist skills}} 
 
 		 \rs       
       
