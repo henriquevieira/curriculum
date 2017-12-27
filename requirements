@@ -1,0 +1,4 @@
+sudo apt-get install texlive-xetex
+sudo apt-get install texlive-latex-recommended texlive-pictures texlive-latex-extra
+sudo apt-get install texlive-fonts-extra texlive-lang-portuguese
+sudo apt-get install texlive-pstricks

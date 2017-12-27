@@ -1,0 +1,168 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.0 (14/7/16)
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com) and Harsh (harsh.gadgil@gmail.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+
+% Command for printing skill overview bubbles
+\newcommand\skills{ 
+~
+	\smartdiagram[bubble diagram]{
+        \textbf{Developer},
+        \textbf{~~~~~OOP~~~~~~},
+        \textbf{Agile}\\\textbf{Methodology},
+        \textbf{Machine}\\\textbf{Learning},
+        \textbf{Test}\\\textbf{~~Automation~~},
+        \textbf{Statistical}\\\textbf{Analysis}
+    }
+}
+
+% Programming skill bars
+\developer{
+{SQL $\textbullet$ XP $\textbullet$ Scrum / 3},
+{Shiny $\textbullet$ Django $\textbullet$ Hibernate / 4 },
+{Shell script $\textbullet$ Python $\textbullet$ JS / 4},
+{R $\textbullet$ Perl $\textbullet$ Java / 5.5}}
+
+\rs{
+{Weighted Correlation Network Analysis / 3.5},
+{Generating hypotheses / 4},
+{Bioinformatic tools / 5},
+{Experimental design and analysis / 5},
+{Quantitative analysis $\textbullet$ Machine learning / 5.5 }}
+
+
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\cvname{Henrique\\Cursino Vieira} % Your name
+\cvjobtitle{ Data Scientist } % Job
+% title/career
+
+\cvlinkedin{/in/henrique-cursino-vieira-4732bb26}
+\cvgithub{github.com/henriquevieira}
+\cvnumberphone{+55 11 96920 3633} % Phone number
+\cvsite{http://vision.ime.usp.br/\~{} henrivieira} % Personal website
+\cvmail{enrikevieira@gmail.com} % Email address
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makeprofile % Print the sidebar
+
+\section{Personal profile}
+
+I am dedicated, considerate and available for new functions and challenges. I have good interpersonal relationships, dynamics, flexibility. I try to be always updated for my personal and professional improvement. I like to solve challenges of any nature, I appreciate the search for new answers and new points of view. \vspace{2mm}
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem
+    	{2012 - 2016}
+        {}
+        {MSc., Bioinformatic \textnormal}
+        {\href{http://www5.usp.br/}{University of São Paulo, Brazil}}
+        {}
+        {}
+	\twentyitem
+    	{2007 - 2010}
+		{}
+        {BS., Information Systems \textnormal}
+        {\href{http://www.unipune.ac.in/}{University of São Judas Tadeu, Brazil}}
+        {}
+        {}
+	%\twentyitem{<dates>}{<title>}{<organization>}{<location>}{<description>}
+\end{twenty}
+
+\section{Research}
+\begin{twenty}
+	\twentyitem
+    	{2012 - 2016}
+		{}
+        {MSc. Bioinformatic}
+        {\href{http://www5.usp.br/}{University of São Paulo}}
+        {}
+        {
+       	\textbf{Thesis}: Development of a pipeline for genomic DNA methylation \\ analysis \\
+       	In this work, I present the pipeline developed for the analysis of data obtained from the infinium humanmethylation450 beadchip. We compared our methodology with the main methods of analysis used and obtained significant results that corroborate with biological significance.
+        {\begin{itemize}
+        \item \textbf{Thesis Advisors}: Helena Brentani, Ph.D.
+        \item \textbf{Tools}: R \vspace{2mm}
+		\end{itemize}}
+        }
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\section{Experience}
+
+\begin{twenty} % Environment for a list with descriptions
+\twentyitem
+    	{Nov 2016 - }
+		{Present}
+        {Bioinformatician}
+        {\href{http://cetics.butantan.gov.br/}{LETA - CeTICS}}
+        {}
+        {\begin{itemize}
+        \item Development of tools for data analysis of RNA Seq for the application CeTICSdb. Assembly of the transcriptome of the species Bothrops jararaca. Creation of tools and pipelines in bioinformatics and maintenance of Dell servers.
+        \end{itemize}}
+        \\
+	\twentyitem
+    	{Jan 2015 - }
+		{Nov 2016}
+        {Java Backend Developer }
+        {\href{www.looplex.com.br/}{Looplex}}
+        {}
+        {
+        {\begin{itemize}
+        \item Development of the application for automation of generation of contracts of lawtech startup Looplex. Application of Scrum methodology and automation of tests for rapid development.
+    \end{itemize}}
+        }
+    \\   
+    \twentyitem
+   		{Oct 2012 - }
+		{Dec 2014}
+        {Master's degree with scholarship}
+        {\href{www.ipqhc.org.br}{Instituto de Psiquiatria do Hospital das Clínicas de São Paulo}}
+        {}
+        {
+        {\begin{itemize}
+        \item Development pipeline and analysis of methylation data in microarray.
+    \end{itemize}}
+        }       
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+\section{Competencies}
+\begin{itemize}
+	\item Advanced School in Big Data Analysis, CeMEAI - USP - 48h (Jul. 2017)
+	\item SHIFT Big Data Science - Machine Learning and Data Mining, FIAP - 32h (Jun. 2016)
+	\item Scientific Writing Course, USP - 8h (Sep. 2013)
+	\item Language course - English, CNA (Dez. 2011).
+	\item Language course - Japanese, Kumon (Dez. 2009).
+\end{itemize}
+
+\end{document} 
