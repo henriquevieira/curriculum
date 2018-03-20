@@ -8,15 +8,15 @@
 
 # Education
 
-- Master in Science in Bioinformatic, Universidade de São Paulo, 2016
-- Bacharel in System of Information, Universidade São Judas Tadeu, 2010
+- M.Sc. na aréa de Bioinformática, Universidade de São Paulo, 2016
+- Bacharel em Sistemas de Informação, Universidade São Judas Tadeu, 2010
 
-M.Sc., Bioinformatic, Universidade de São Paulo, São Paulo, São Paulo
-May 2016
-Development of a pipeline for genomic DNA methylation analysis
-Thesis Advisors: Helena Brentani, Ph.D.
+M.Sc., Bioinformática, Universidade de São Paulo, São Paulo, São Paulo
+Maio 2016
+Desenvolvimento de uma pipeline para analise genômica de metilação de DNA
+Orientador: Helena Brentani, Ph.D.
 
-Bs, Information Systems, Universidade São Judas Tadeu, São Paulo, São Paulo
+Bs, Sistemas de Informação, Universidade São Judas Tadeu, São Paulo, São Paulo
 Dez. 2016
 
 # Employment history
