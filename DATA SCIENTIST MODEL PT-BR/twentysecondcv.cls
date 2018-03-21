@@ -259,13 +259,13 @@
 
         \vspace{3mm}
        
-	 {\large \textbf{Developer}} 
+	 {\large \textbf{Desenvolvedor}} 
 
 		 \developer
 
         \vspace{3mm}
        
-	 {\large \textbf{Data Scientist skills}} 
+	 {\large \textbf{Cientista de dados}} 
 
 		 \rs       
       
