@@ -8,7 +8,7 @@
 
 # Education
 
-- M.Sc. na aréa de Bioinformática, Universidade de São Paulo, 2016
+- M.Sc. em Bioinformática, Universidade de São Paulo, 2016
 - Bacharel em Sistemas de Informação, Universidade São Judas Tadeu, 2010
 
 M.Sc., Bioinformática, Universidade de São Paulo, São Paulo, São Paulo
@@ -92,3 +92,37 @@ Congressos e simpósios
 	Participação do SB-Meeting 2014, Brasil-Deutschland Systems Biology Meeting, poster com o título “Methylation analysis of Infinium HumanMethylation450 beadchip”. Natal, Brasil – 10 a 12 de março de 2014.
 
 	Participação do BSB & X-Meeting 2013, Brazilian Symposium on Bioinformatics & International Conference of The AB3C, poster com o título “Methylation analysis of Infinium HumanMethylation450 beadchip”. Recife, Brasil – 03 a 06 de novembro de 2013.
+
+Certificados
+
+Nanodegree Fundamentos de Data Science II
+fev de 2018 – o momento
+Udacity
+
+Nanodegree Fundamentos de Data Science I
+jan de 2018 – fev de 2018
+Udacity
+
+Data Scientist with R
+jan de 2018 – o momento
+DataCamp
+
+R Programming
+jan de 2018 – jan de 2018
+DataCamp
+
+Basic statistic
+jan de 2018 – mar de 2018
+Coursera
+
+Cursos
+
+Curso de Escrita Cientifica, IME USP
+Escola Avançada em Big Data Analysis - CeMEAI - USP
+SHIFT Big Data Science - Machine Learning and Data Mining
+Treinamento em Análise de RNA SEQ
+
+
+
+
+
